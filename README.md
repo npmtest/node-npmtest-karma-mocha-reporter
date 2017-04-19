@@ -1,4 +1,7 @@
-# test coverage for  [karma-mocha-reporter (v2.2.3)](http://www.litixsoft.de/index.php?lang=en#modules)  [![npm package](https://img.shields.io/npm/v/npmtest-karma-mocha-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-karma-mocha-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-karma-mocha-reporter.svg)](https://travis-ci.org/npmtest/node-npmtest-karma-mocha-reporter)
+# npmtest-karma-mocha-reporter
+
+#### test coverage for  [karma-mocha-reporter (v2.2.3)](http://www.litixsoft.de/index.php?lang=en#modules)  [![npm package](https://img.shields.io/npm/v/npmtest-karma-mocha-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-karma-mocha-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-karma-mocha-reporter.svg)](https://travis-ci.org/npmtest/node-npmtest-karma-mocha-reporter)
+
 #### Karma reporter with mocha style logging.
 
 [![NPM](https://nodei.co/npm/karma-mocha-reporter.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-mocha-reporter)
